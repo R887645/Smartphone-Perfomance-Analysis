@@ -62,6 +62,8 @@ The dataset was initially reviewed and cleaned to ensure accuracy and consistenc
 
 - Power Query was used extensively to streamline the cleaning and transformation process.
 
+![My Image Description](https://github.com/R887645/Smartphone-Perfomance-Analysis/blob/main/cleaned%20dataset.png?raw=true)
+
 # Exploratory Data Analysis (EDA)
 
 After cleaning, exploratory analysis was performed to understand the structure and distribution of the data.
@@ -106,7 +108,9 @@ Correlation analysis was conducted to assess the relationship between:
 - Processor speed and sales
 
 - RAM capacity and sales
-![My Image Description](C:\Users\Owner\Downloads\Real smartphone performance.png)
+![My Image Description](https://github.com/R887645/Smartphone-Perfomance-Analysis/blob/main/Real%20smartphone%20performance.png?raw=true)
+
+![My Image Description](https://github.com/R887645/Smartphone-Perfomance-Analysis/blob/main/featured%20Analysis.png?raw=true)
 
 # Key Pivot Tables Created
 
