@@ -110,8 +110,6 @@ Correlation analysis was conducted to assess the relationship between:
 - RAM capacity and sales
 ![My Image Description](https://github.com/R887645/Smartphone-Perfomance-Analysis/blob/main/Real%20smartphone%20performance.png?raw=true)
 
-![My Image Description](https://github.com/R887645/Smartphone-Perfomance-Analysis/blob/main/featured%20Analysis.png?raw=true)
-
 # Key Pivot Tables Created
 
 The following pivot tables were developed to meet business requirements:
@@ -163,6 +161,8 @@ Charts and visuals were created to clearly communicate insights, including:
 - Relationship between technical specifications and sales
 
 These visuals helped highlight trends and simplify decision-making.
+
+![My Image Description](https://github.com/R887645/Smartphone-Perfomance-Analysis/blob/main/featured%20Analysis.png?raw=true)
 
 # Key Insights & Findings
 
