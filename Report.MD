@@ -18,7 +18,7 @@ The primary objective of this analysis was to:
 
 - Present insights using pivot tables and visualizations
 
-#Business Questions Addressed
+# Business Questions Addressed
 
 - Which smartphone brands and models generate the highest sales?
 
@@ -82,24 +82,100 @@ The analysis evaluated how specific smartphone features influence sales performa
 
 **Features Analyzed:**
 
-**- NFC availability**
+- **NFC availability**
 
-IR Blaster support
+- **IR Blaster support**
 
-5G connectivity
+- **5G connectivity**
 
-Battery capacity
+- **Battery capacity**
 
-Processor speed
+- **Processor speed**
 
-RAM capacity
+- **RAM capacity**
 
-Operating system distribution
+- **Operating system distribution**
 
 Correlation analysis was conducted to assess the relationship between:
 
-Battery capacity and sales
+- Battery capacity and sales
 
-Processor speed and sales
+- Processor speed and sales
 
-RAM capacity and sales
+- RAM capacity and sales
+
+# Key Pivot Tables Created
+
+The following pivot tables were developed to meet business requirements:
+
+- Brand by Model
+
+- Best Brand by Sales
+
+- Sales Performance Ratio by Brand
+
+- Average Rating by Brand
+
+- Percentage of Models by Operating System
+
+- Brand by NFC Capacity
+
+- Brand by IR Blaster
+
+- Percentage of Models with 5G Support
+
+- Brand by 5G Support
+
+- Percentage of Models with NFC
+
+- Percentage of Models with IR Blaster
+
+- Sales by Processor Speed
+
+- Sales by Battery Capacity
+
+- Average Battery Capacity by Brand
+
+- Correlation of Battery Capacity vs Sales
+
+- Correlation of Processor Speed vs Sales
+
+- Correlation of RAM Capacity vs Sales
+
+# Visualization
+
+Charts and visuals were created to clearly communicate insights, including:
+
+- Sales distribution by brand and model
+
+- Sales performance ratios across brands
+
+- Feature adoption rates (5G, NFC, IR Blaster)
+
+- Relationship between technical specifications and sales
+
+These visuals helped highlight trends and simplify decision-making.
+
+# Key Insights & Findings
+
+- Certain brands consistently outperform others in total sales and model count
+
+- Sales performance varies significantly by brand, not just by number of models
+
+- Smartphones with advanced features (5G, NFC) tend to show stronger sales performance
+
+- Battery capacity, processor speed, and RAM show noticeable correlation with sales
+
+- Feature availability plays a critical role in consumer purchasing behavior
+
+# Conclusion
+
+This project demonstrates how Excel can be used as a powerful analytical tool for transforming raw data into actionable insights. By combining data cleaning, pivot tables, and visualization, the analysis provides a clear understanding of smartphone sales dynamics and feature impact.
+
+The findings can support:
+
+- Product positioning strategies
+
+- Feature prioritization decisions
+
+- Brand performance benchmarking
