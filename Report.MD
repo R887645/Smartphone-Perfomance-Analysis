@@ -96,6 +96,8 @@ The analysis evaluated how specific smartphone features influence sales performa
 
 - **Operating system distribution**
 
+![My Image Description](https://github.com/R887645/Smartphone-Perfomance-Analysis/blob/main/smart_phone_Analysis.png?raw=true)
+
 Correlation analysis was conducted to assess the relationship between:
 
 - Battery capacity and sales
