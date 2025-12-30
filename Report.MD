@@ -98,6 +98,7 @@ The analysis evaluated how specific smartphone features influence sales performa
 
 ![My Image Description](https://github.com/R887645/Smartphone-Perfomance-Analysis/blob/main/smart_phone_Analysis.png?raw=true)
 
+
 Correlation analysis was conducted to assess the relationship between:
 
 - Battery capacity and sales
@@ -105,6 +106,7 @@ Correlation analysis was conducted to assess the relationship between:
 - Processor speed and sales
 
 - RAM capacity and sales
+![My Image Description](C:\Users\Owner\Downloads\Real smartphone performance.png)
 
 # Key Pivot Tables Created
 
